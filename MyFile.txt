@@ -1,9 +1,8 @@
 My name is Omkar
 How is this going on? 
 <<<<<<< HEAD
+<<<<<<< HEAD
 jgjgjjgtu
 xgfg
-Change for use of undo..
-=======
-jgjgjjgtu
->>>>>>> parent of 5fdf4f2... 4th commit
+gfhgfhf
+bfh
